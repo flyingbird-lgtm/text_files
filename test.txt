@@ -1,0 +1,18 @@
+The Impossible Equation: There is a three-digit number. The second digit is four times bigger than the third digit, while the first digit is three less than the second digit. What is the number?
+
+Answer: 141.
+The Painter's Puzzle: A painter needs to paint the numbers 1 to 100 on doors. How many times does he have to paint the number 9?
+
+Answer: 20 times.
+The Chessboard Challenge: If a chessboard has 64 squares, how many squares are there in total on the board including all possible sizes of squares?
+
+Answer: 204 (1x1 squares: 64, 2x2 squares: 49, 3x3 squares: 36, up to 8x8 squares: 1).
+The Balancing Act: How can you balance a cork on its end using two forks and a glass?
+
+Answer: Insert the two forks into each other and then into the cork. Balance this arrangement on the rim of the glass.
+The Three Pills: You have a headache and see three pills in a bottle. You must take exactly one. The pills are all perfect cylinders, but one pill is slightly shorter and one pill is slightly longer. How do you choose one pill without using any tools?
+
+Answer: Line up the three pills; the one that’s a different length (either shorter or longer) will be obvious, so take one of the other two.
+The Hourglass Puzzle: You have two hourglasses — one measures 4 minutes, the other 7 minutes. How can you measure exactly 9 minutes?
+
+Answer: Start both hourglasses. When the 4-minute hourglass runs out, turn it over (4 minutes passed). When the 7-minute hourglass runs out, turn it over (7 minutes passed). When the 4-minute hourglass runs out again (total 8 minutes), turn over the 7-minute hourglass. When it runs out this time, 9 minutes have passed.
