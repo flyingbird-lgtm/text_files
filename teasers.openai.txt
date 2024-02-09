@@ -455,7 +455,6 @@ Answer: None, it’s an electric airplane.
 The Torn Page: A book has 1000 pages, numbered from 1 to 1000. A page is torn out. The sum of the numbers on the remaining pages is 999,999. What is the number on the torn page?
 
 Answer: Page 756 (999,999 equals the sum of 1 to 1000 minus page 756).
-The Inheritance Puzzle Continued: Borrow an elephant to make 18. The oldest gets 9 (half), the middle 6 (a third), and the youngest 2 (a ninth). That totals 17, and they return the borrowed elephant.
 
 The Riddle of the Sphinx: What walks on four legs in the morning, two legs at noon, and three legs in the evening?
 
