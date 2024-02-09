@@ -1,0 +1,544 @@
+The Locked Room: A man is found dead in a locked room with a puddle of water under him. How did he die?
+
+Answer: He was standing on a block of ice that melted.
+The Three Light Switches: You are outside a room with three light switches. Inside the room are three bulbs. You can only enter the room once. How can you determine which switch controls which bulb?
+
+Answer: Turn on the first switch, leave it on for a few minutes, then turn it off. Turn on the second switch and enter the room. The warm bulb is controlled by the first switch, the lit bulb by the second, and the remaining bulb by the third switch.
+The Fisherman's Dilemma: A fisherman has 5 fish in a bucket. He throws away all but 4. How many does he have left?
+
+Answer: Four fish.
+The Window Room: How can you jump out of a 20-story building’s window and survive?
+
+Answer: Jump from the first floor.
+The Barber Paradox: A barber shaves everyone in town who does not shave themselves. Does the barber shave himself?
+
+Answer: It's a paradox. If he shaves himself, he cannot shave himself. If he doesn’t shave himself, he must shave himself.
+The Name Game: What five-letter word becomes shorter when you add two letters to it?
+
+Answer: Short (add 'er' to make shorter).
+The Doctor's Dilemma: A doctor gives you three pills and tells you to take one every half hour. How long do the pills last?
+
+Answer: One hour (take the first pill immediately, the second half an hour later, and the third an hour after the first).
+The Race to the End: In a race, if you pass the person in 2nd place, what place are you in now?
+
+Answer: Second place.
+The Clock Puzzle: At what time between 3 and 4 o'clock are the hands of a clock exactly opposite each other?
+
+Answer: At about 3:27 and 9/11 minutes.
+The Apple Tree: If you have 20 apples in a basket and 20 children around you, how can you give an apple to each child while still keeping one in the basket?
+
+Answer: Give 19 children an apple each and give the 20th child the basket with the last apple still in it.
+The Unusual Paragraph: This is an unusual paragraph. How quickly can you find out what is so unusual about it?
+
+Answer: The letter 'e', which is the most common letter used in the English language, does not appear even once in the paragraph.
+The Word Riddle: I am a word of letters three; add two, and fewer there will be. What word am I?
+
+Answer: Few (add 'er' to make fewer).
+The Two Doors: You are in a room with two doors. One leads to certain death and the other to freedom. You don't know which is which. There are two guards, one at each door. One always tells the truth, the other always lies. You can ask one question to find the door to freedom. What do you ask?
+
+Answer: Ask either guard, "Which door would the other guard say leads to freedom?" Then choose the opposite door.
+The Misplaced Book: You place a book in a suitcase. If the suitcase weighs 1 pound plus half the total weight, how much does the book weigh?
+
+Answer: The book weighs 2 pounds.
+The Famous River Crossing: How can you get a wolf, a sheep, and a cabbage across a river in a boat that can only carry you and one other item, without leaving the wolf alone with the sheep or the sheep with the cabbage?
+
+Answer: Take the sheep across, return alone, take the wolf across, bring the sheep back, take the cabbage across, and finally return to get the sheep.
+The Weight Balance: You have 9 balls, all identical in appearance. 8 of them weigh the same, but one is slightly heavier. Using a balance scale, how do you find the heavier ball in just two weighings?
+
+Answer: Divide the balls into three groups of three. Weigh two groups. If they balance, the heavy ball is in the unweighed group. Weigh two balls from this group; if they balance, the remaining ball is the heavy one.
+The Tricky Number: If you have a bowl with six apples and you take away four, how many do you have?
+
+Answer: Four. You took four apples, so you have those four.
+The Halfway Point: A runner runs a certain distance and then runs back to the starting point. When she gets halfway back, what part of the distance has she run?
+
+Answer: Three-quarters of the total distance.
+The Airplane Fuel: If an electric airplane is flying north at 100 mph and there is a wind blowing to the west at 100 mph, which way does the smoke blow?
+
+Answer: There is no smoke; it's an electric airplane.
+The Room of Doors: You are in a room with 2 doors leading out. Behind one door is a room that will lead to your freedom. Behind the other door is a lion that hasn't eaten in three months. Which door do you choose?
+
+Answer: The door with the lion. If it hasn't eaten in three months, it's dead.
+The Inheritance Puzzle: A father leaves his three sons 17 elephants with the following instructions: The oldest son should get half of the elephants, the middle son a third, and the youngest son a ninth. How should they divide the elephants without killing any?
+
+Answer: Borrow an elephant to make 18. The oldest gets 9 (half), the middle 6 (a third), and the youngest 2 (a ninth). That totals 17, and they return the borrowed elephant.
+The Coin Toss: If you toss a coin ten times and it lands heads up every time, what are the chances it will land heads up if you toss it again?
+
+Answer: 50%. Each coin toss is an independent event.
+The Farmer's Sheep: A farmer has 17 sheep, all but 9 die. How many are left?
+
+Answer: Nine.
+The Ladder Puzzle: A 10-foot ladder is attached to a ship. If the water rises 5 feet, how much of the ladder will be above water?
+
+Answer: Still 10 feet, as the ladder will rise with the ship.
+The Broken Bulb: You are in a room with 3 light switches. One switch turns on a lightbulb inside a closed room, the other two switches do nothing. You can only enter the room once. How can you determine which switch controls the light bulb?
+
+Answer: Turn on the first switch, wait a few minutes, turn it off. Turn on the second switch and enter the room. If the bulb is on, it’s the second switch. If the bulb is off and warm, it’s the first switch.
+The Three Glasses: You have three glasses. The first two are filled with juice, and the third is empty. By moving only one glass, how can you arrange them so that the full and empty glasses alternate?
+
+Answer: Pour the juice from the second glass into the third glass.
+The Bus Journey: On a bus, there are 7 girls. Each girl has 7 backpacks. In each backpack, there are 7 large cats. For every large cat, there are 7 little cats. How many legs are there in total on the bus?
+
+Answer: 10,990 legs. (7 girls * 2 legs each + 49 large cats * 4 legs each + 343 little cats * 4 legs each = 10,990 legs.)
+The Missing Dollar: Three people contribute $10 each to buy an item. The item is actually only $25, so they are given $5 back. They each take $1 and give $2 to the cashier as a tip. They each spent $9, totaling $27, and the cashier has $2, totaling $29. Where is the missing dollar?
+
+Answer: There's no missing dollar. They each effectively paid $9, totaling $27. This includes $25 for the item and $2 for the tip.
+The Age Anomaly: When I was 2 years old, my brother was half my age. Now I'm 100 years old. How old is my brother?
+
+Answer: 99 years old.
+The Box of Oranges: You have two boxes of oranges. One box has oranges that weigh 4 pounds each, and the other has oranges that weigh 5 pounds each. You have to find out which box is which. You can only use a scale once. How do you do it?
+
+Answer: Take one orange from the first box and two from the second box and weigh them together. If the total weight is 13 pounds, the first box has 4-pound oranges. If it's 14 pounds, the first box has 5-pound oranges.
+The Train Tunnel: A train 1 mile long is going through a 1 mile long tunnel at a speed of 1 mile per minute. How long does it take for the entire train to pass through the tunnel?
+
+Answer: 2 minutes.
+The Missing Dollar Redux: Three people check into a hotel room that costs $30. They each contribute $10. The hotel manager later realizes the room should only cost $25 and sends the bellboy to return $5. The bellboy decides to keep $2 for himself and gives $1 back to each person. Now, each person paid $9, totaling $27. The bellboy kept $2, totaling $29. Where's the missing dollar?
+
+Answer: There's no missing dollar. They each paid $9, totaling $27: $25 for the room and $2 for the bellboy.
+The Scrambled Egg: If it took six people six hours to cook six scrambled eggs, how long would it take one person to cook one scrambled egg?
+
+Answer: Six hours. The number of people does not change the time it takes to cook one egg.
+The Four-Day Clock: A clock loses 10 minutes every hour. If the clock is set correctly at noon, what is the correct time when the clock shows 3 PM?
+
+Answer: 3:30 PM. The clock loses 30 minutes in 3 hours.
+The Liar and the Truth Teller: You're at a fork in the road. One way leads to safety, the other to danger. Two twins stand at the fork, one who always lies and one who always tells the truth. You can ask one question to find the safe path. What do you ask?
+
+Answer: Ask either twin, "Which way would your brother tell me to go for safety?" Then go the opposite way.
+The Airplane Challenge: If an electric train is moving north at 100mph and the wind is blowing to the west at 100mph, which way does the smoke blow?
+
+Answer: There is no smoke; it’s an electric train.
+The Bottle and the Cork: A bottle and a cork together cost $1.10. The bottle costs $1 more than the cork. How much does the cork cost?
+
+Answer: 5 cents. The bottle costs $1.05.
+The Halfway Point: A runner runs a certain distance and then runs back to the starting point. When she gets halfway back, what part of the distance has she run?
+
+Answer: Three-quarters of the total distance.
+The Forbidden Letter: Think of words ending in '-GRY'. Angry and hungry are two of them. There are only three words in the English language. What is the third word?
+
+Answer: The third word is 'language' (as in the phrase "the English language").
+The Next Number: What is the next number in this sequence? 1, 11, 21, 1211, 111221, ...
+
+Answer: 312211. Each number describes the previous one (1 is "one 1", which becomes 11, then "two 1s" becomes 21, etc.).
+The Hotel Room Mystery: In a hotel, a man is sleeping when suddenly there's a knock on the door. He opens the door to see a stranger. The stranger says, "I'm sorry, I have made a mistake. I thought this was my room." He then goes down the corridor and into the elevator. The man closes the door and calls security. Why?
+
+Answer: The stranger didn't ask for the room number, indicating he was not a guest but likely a thief checking for empty rooms.
+The Airplane Fuel: An electric airplane is flying north at 100 mph and there is a wind blowing to the west at 100 mph. How much fuel does the airplane need to continue flying for one hour?
+
+Answer: None, it’s an electric airplane.
+The Torn Page: A book has 1000 pages, numbered from 1 to 1000. A page is torn out. The sum of the numbers on the remaining pages is 999,999. What is the number on the torn page?
+
+Answer: Page 756 (999,999 equals the sum of 1 to 1000 minus page 756).
+The Reversed Clock: If the time right now is 3:15, what is the angle between the hour and minute hands of an analog clock?
+
+Answer: 7.5 degrees. (At 3:15, the hour hand is a quarter of the way between the 3 and the 4, or 7.5 degrees past the 3.)
+The Famous River Crossing: How can you get a wolf, a sheep, and a cabbage across a river in a boat that can only carry you and one other item, without leaving the wolf alone with the sheep or the sheep with the cabbage?
+
+Answer: Take the sheep across, return alone, take the wolf across, bring the sheep back, take the cabbage across, and finally return to get the sheep.
+The Weight Balance: You have 9 balls, all identical in appearance. 8 of them weigh the same, but one is slightly heavier. Using a balance scale, how do you find the heavier ball in just two weighings?
+
+Answer: Divide the balls into three groups of three. Weigh two groups. If they balance, the heavy ball is in the unweighed group. Weigh two balls from this group; if they balance, the remaining ball is the heavy one.
+The Tricky Number: If you have a bowl with six apples and you take away four, how many do you have?
+
+Answer: Four. You took four apples, so you have those four.
+The Halfway Point: A runner runs a certain distance and then runs back to the starting point. When she gets halfway back, what part of the distance has she run?
+
+Answer: Three-quarters of the total distance.
+The Airplane Fuel: If an electric airplane is flying north at 100 mph and there is a wind blowing to the west at 100 mph, which way does the smoke blow?
+
+Answer: There is no smoke; it's an electric airplane.
+The Room of Doors: You are in a room with 2 doors leading out. Behind one door is a room that will lead to your freedom. Behind the other door is a lion that hasn't eaten in three months. Which door do you choose?
+
+Answer: The door with the lion. If it hasn't eaten in three months, it's dead.
+The Inheritance Puzzle: A father leaves his three sons 17 elephants with the following instructions: The oldest son should get half of the elephants, the middle son a third, and the youngest son a ninth. How should they divide the elephants without killing any?
+
+Answer: Borrow an elephant from a neighbor, making 18 elephants. Then distribute: half (9) to the oldest, a third (6) to the middle son, and a ninth (2) to the youngest. This totals 17, leaving the borrowed elephant to return.
+The Coin Toss: If you toss a coin ten times and it lands heads up every time, what are the chances it will land heads up if you toss it again?
+
+Answer: 50%. Each coin toss is an independent event.
+The Farmer's Sheep: A farmer has 17 sheep, all but 9 die. How many are left?
+
+Answer: Nine.
+The Ladder Puzzle: A 10-foot ladder is attached to a ship. If the water rises 5 feet, how much of the ladder will be above water?
+
+Answer: Still 10 feet, as the ladder will rise with the ship.
+The Broken Bulb: You are in a room with 3 light switches. One switch turns on a lightbulb inside a closed room, the other two switches do nothing. You can only enter the room once. How can you determine which switch controls the light bulb?
+
+Answer: Turn on the first switch, wait a few minutes, turn it off. Turn on the second switch and enter the room. If the bulb is on, it’s the second switch. If the bulb is off and warm, it’s the first switch.
+The Three Glasses: You have three glasses. The first two are filled with juice, and the third is empty. By moving only one glass, how can you arrange them so that the full and empty glasses alternate?
+
+Answer: Pour the juice from the second glass into the third glass.
+The Burning Rope: You have two ropes. Each takes exactly 60 minutes to burn from one end to the other, but they burn irregularly. How can you measure exactly 45 minutes?
+
+Answer: Light one rope at both ends and the other rope at one end. When the first rope finishes burning (30 minutes), light the other end of the second rope. When the second rope finishes burning, 45 minutes will have passed.
+The Coffee Puzzle: A man buys a coffee for $5 and pays with a $20 bill. The barista has no change and goes to another shop to get change. He returns, gives the man his $15 change and the man leaves. Later, the other shop owner says the $20 bill was counterfeit and takes his money back. How much did the barista lose?
+
+Answer: $20 (the coffee and the $15 change).
+The Four Days: Today is Tuesday. What day will it be 500 days from now?
+
+Answer: Thursday. (500 days is 71 weeks and 3 days. Three days after Tuesday is Thursday.)
+The Fish Tank: If three cats catch three fish in three minutes, how many fish would six cats catch in six minutes?
+
+Answer: Twelve fish. (Each cat catches one fish in three minutes, so in six minutes each cat catches two fish.)
+The Hospital Elevator: A man in a hospital lives on the 10th floor. He goes down to the ground floor every morning but only goes up to the 7th floor when he returns. He takes the stairs for the remaining floors. Why?
+
+Answer: The man is short and can only reach the button for the 7th floor.
+The Secret Password: To meet a certain society's leader, you need to say the correct password. You hide and listen. One member knocks on the door. The guard says "twelve", the member replies "six", and is let in. Another knocks, the guard says "six", the member replies "three", and is let in. You knock, the guard says "ten", what do you say?
+
+Answer: Five. (The password is the number of letters in the word the guard says.)
+The Tricky Coin: Out of 40 coins, one is counterfeit and heavier. Using a balance scale, how do you find the counterfeit coin in just two weighings?
+
+Answer: Divide the coins into groups of 13, 13, and 14. Weigh the two groups of 13. If they balance, the heavier coin is in the group of 14. Then, select any 12 coins from this group and weigh 6 against 6. If they balance, the unweighed coin is the counterfeit. If not, the heavier side contains the counterfeit.
+The Mysterious Age: Someone's mother is 21 years older than them. In 6 years, their mother will be five times their age. How old is the person now?
+
+Answer: Their current age is 3 years old.
+The Clock Challenge: At what time between 3 and 4 o'clock are the hands of a clock exactly opposite each other?
+
+Answer: At about 3:27 and 9/11 minutes. (The minute hand is 27 9/11 minutes ahead of the hour hand at that time.)
+The Island Dilemma: You are stranded on an island with a blind man who has two red pills and two white pills, totally indistinguishable. He must take one of each to live. You're tasked with giving him the pills. How do you ensure he takes one of each?
+
+Answer: Break each pill in half and give him half of each pill.
+The Three Doors: There are three doors: one with a car behind it, and two with goats. You pick a door. The host, knowing what's behind the doors, opens another door, revealing a goat. He offers you a chance to switch. Do you switch or stay?
+
+Answer: Switch. The probability of winning the car increases to 2/3 if you switch, due to the Monty Hall problem.
+The Missing Dollar: Three people contribute $10 each to buy an item. The item is actually only $25, so they are given $5 back. They each take $1 and give $2 to the cashier as a tip. They each spent $9, totaling $27, and the cashier has $2, totaling $29. Where is the missing dollar?
+
+Answer: There's no missing dollar. They each effectively paid $9, totaling $27. This includes $25 for the item and $2 for the tip.
+The Liar and the Truth Teller: You're at a fork in the road. One path leads to safety, the other to danger. Two brothers stand there, one who always lies and one who always tells the truth. You can ask one question to find the safe path. What do you ask?
+
+Answer: Ask either brother, "Which path would your brother say is safe?" Then take the opposite path.
+The Age Puzzle: When I was 2 years old, my brother was half my age. Now I'm 100 years old. How old is my brother?
+
+Answer: 99 years old.
+The Stolen Ring: A woman reports her expensive ring stolen, claiming it was taken while she was asleep. The police find the ring in the vacuum cleaner. Why do they arrest her?
+
+Answer: If she were sleeping, she wouldn’t have been able to hear the vacuum cleaner to know the ring was there.
+The Two Sons: A father's will states his two sons must race their horses, and the one with the slower horse will inherit the estate. The sons race, but both try to lose. A wise man suggests something, then they race again as fast as they can. What did the wise man suggest?
+
+Answer: He suggested they swap horses, as the one with the slower horse still wins.
+The Echo: I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?
+
+Answer: An echo.
+The Cellar Door: A woman shoots her husband, then holds him underwater for five minutes. Next, she hangs him. Right after, they enjoy a lovely dinner. Explain.
+
+Answer: She took a photo of her husband ("shoots" with a camera), developed it in liquid (held "underwater"), and then hung the photo to dry.
+The Counterfeit Coin: You have 12 coins, one of which is counterfeit and lighter than the rest. Using a balance scale only three times, how do you identify the counterfeit coin?
+
+Answer: Divide the coins into three groups of four. Weigh two groups; if they balance, the counterfeit is in the third group. If not, it's in the lighter group. Next, weigh two coins from the lighter group against each other. If they balance, the counterfeit is one of the two unweighed coins; weigh one to find out. If they don't balance, the lighter coin is the counterfeit.
+The Hotel Bill: Three guests check into a hotel room that costs $30. They each contribute $10. The hotel manager later reduces the price to $25 and gives $5 to the bellboy to return to the guests. The bellboy keeps $2 and gives $1 back to each guest. Now, each guest paid $9, totaling $27, and the bellboy has $2, totaling $29. Where's the missing dollar?
+
+Answer: There's no missing dollar. Each guest paid $9, totaling $27: $25 went to the room and $2 to the bellboy.
+The Unique Race: In a race, you overtake the second person. What position are you in now?
+
+Answer: Second place.
+The Word Sequence: What comes next in this sequence: OTTFFSS?
+
+Answer: E. (The sequence represents the first letter of the numbers: One, Two, Three, Four, Five, Six, Seven, Eight.)
+The Number Riddle: I am a three-digit number. My tens digit is five more than my ones digit. My hundreds digit is eight less than my tens digit. What number am I?
+
+Answer: 194.
+The Hidden Animal: What animal can you spell with just three letters and is known as the "king of the jungle"?
+
+Answer: Lion (L-I-O-N).
+The Boat Conundrum: If you row a boat in a pond and the wheel falls off, how many pancakes fit in a doghouse?
+
+Answer: None, because pancakes don't fit in doghouses. (This is a nonsensical brain teaser.)
+The Digits Challenge: Using only addition, how can you use eight eights to get the number 1,000?
+
+Answer: 888 + 88 + 8 + 8 + 8 = 1,000.
+The Coin Flip: If you flip a coin three times and it comes up heads each time, what are the odds it will come up heads the fourth time?
+
+Answer: 50%, as each coin flip is an independent event.
+The Blind Beggar: A blind beggar had a brother who died. What relation was the blind beggar to the brother who died? ("Brother" is not the answer.)
+
+Answer: The blind beggar was the sister of her brother.
+The Clock Puzzle: If the day before yesterday was Saturday, what day is it today?
+
+Answer: Monday.
+The Bus Challenge: In a town, all buses follow the same schedule. A bus passes a certain street every 12 minutes. How often do the buses pass if you're at a bus stop?
+
+Answer: Every 12 minutes. The schedule doesn't change based on your location.
+The Elevator Dilemma: Why can’t a man living in the U.S. be buried in Canada?
+Answer: Because he’s still living.
+The Forbidden Fruit: If you eat me, my sender will eat you. What am I?
+Answer: A fishhook.
+The Room of Lights: You have a room with three light switches. One switch lights up the bulb inside the room, the other two do nothing. You can only enter the room once. How do you find out which switch controls the light bulb?
+Answer: Turn on the first switch, wait a few minutes, then turn it off. Turn on the second switch and enter the room. If the bulb is on, it’s the second switch. If the bulb is off and warm, it’s the first switch. If the bulb is off and cool, it’s the third switch.
+The Unique Number: Which number does not belong in the following series: 2 - 3 - 6 - 7 - 8 - 14 - 15 - 30
+Answer: Eight. All other numbers are either prime or can be divided by a prime number.
+The Word Play: What word is spelled incorrectly in every single dictionary?
+Answer: Incorrectly.
+The Farmer's Dilemma: A farmer has 17 sheep, all but 9 die. How many are left?
+Answer: Nine.
+The Mysterious Age: When you ask someone their age, they say, “In two years, I will be twice as old as I was five years ago.” How old are they?
+Answer: 12 years old.
+The Box of Oranges: You have two boxes of oranges. One box has oranges that weigh 4 pounds each, and the other has oranges that weigh 5 pounds each. You have to find out which box is which. You can only use a scale once. How do you do it?
+Answer: Take one orange from the first box and two from the second box and weigh them together. If the total weight is 13 pounds, the first box has 4-pound oranges. If it's 14 pounds, the first box has 5-pound oranges.
+The Word Riddle: I am a word of letters three; add two, and fewer there will be. What word am I?
+Answer: Few.
+The Barber Paradox: In a village, there is a barber who shaves all those, and only those, who do not shave themselves. Does the barber shave himself?
+Answer: This is a paradox. If the barber shaves himself, he cannot shave himself. If he doesn’t shave himself, he must shave himself.
+The Lawyer's Son: A lawyer's son is not a lawyer, and the lawyer is not the boy's father. Who is the lawyer?
+
+Answer: The lawyer is the boy's mother.
+The Sequence Puzzle: What are the next three numbers in this sequence? 2, 3, 5, 9, 17, ...
+
+Answer: 33, 65, 129 (each number is double the previous one plus one).
+The Monty Hall Problem: You're on a game show with three doors. Behind one is a car; behind the others, goats. You pick a door. The host, who knows what's behind the doors, opens another door, revealing a goat. He then asks if you want to switch your choice. Should you switch?
+
+Answer: Yes, you should switch. The probability of winning the car increases to 2/3 if you switch.
+The Weighty Issue: If you weigh 100 lbs on Earth, what would you weigh on the Moon?
+
+Answer: About 16.5 lbs (since the Moon's gravity is about 1/6th of Earth's).
+The Number of Siblings: If you have as many brothers as sisters, but each of your brothers has twice as many sisters as brothers, how many brothers and sisters are there?
+
+Answer: Four brothers and three sisters.
+The Clock Conundrum: At 6 o'clock, how many degrees are between the hour and minute hands of a clock?
+
+Answer: 180 degrees.
+The Unique Coin: You have ten coins, 9 of which weigh 1 gram, but one weighs 1.1 grams. You have a balance scale that can be used only once. How do you find the heavier coin?
+
+Answer: Label the coins 1 through 10. Place coins 1, 2, and 3 on the left side, and coins 4, 5, and 6 on the right side. If they balance, the heavier coin is 7, 8, 9, or 10. Then, weigh 7 and 8 against each other; if they balance, it's 9 or 10. If not, the heavier is the heavier coin.
+The Confusing Numbers: If two's company and three's a crowd, what are four and five?
+
+Answer: Nine (4 + 5).
+The Broken Matchstick: You have a matchbox with 20 matchsticks. If you can only hold one matchstick at a time, what is the most number of matchsticks you can remove from the box?
+
+Answer: Nineteen matchsticks (leaving one inside).
+The Coffee Conundrum: A coffee shop sells a cup of coffee for $5. The coffee costs $1, and the service costs $3. How much is the cup?
+
+Answer: $1 (as the total is $5, and coffee plus service is $4).
+The Half-full or Half-empty: If you have a bowl with six apples and you take away four, how many do you have?
+Answer: The four you took.
+The Hotel Room Mystery: In a hotel, a man is sleeping when suddenly there's a knock on the door. He opens the door to see a stranger. The stranger says, "I'm sorry, I have made a mistake. I thought this was my room." He then goes down the corridor and into the elevator. The man closes the door and calls security. Why?
+Answer: The stranger didn't ask for the room number, indicating he was not a guest but likely a thief checking for empty rooms.
+The Airplane Fuel: An electric airplane is flying north at 100 mph and there is a wind blowing to the west at 100 mph. How much fuel does the airplane need to continue flying for one hour?
+Answer: None, it’s an electric airplane.
+The Torn Page: A book has 1000 pages, numbered from 1 to 1000. A page is torn out. The sum of the numbers on the remaining pages is 999,999. What is the number on the torn page?
+Answer: Page 756 (because 999,999 equals the sum of 1 to 1000 minus page 756).
+The Inheritance Puzzle: A father leaves his three sons 17 elephants with the following instructions: The oldest son should get half of the elephants, the middle son a third, and the youngest son a ninth. How should they divide the elephants without killing any?
+Answer: Borrow an elephant to make 18. The oldest gets 9 (half), the middle 6 (a third), and the youngest 2 (a ninth). That totals 17, and they return the borrowed elephant.
+The Flower Mystery: If a red house is made of red bricks and a yellow house is made of yellow bricks, what is a greenhouse made of?
+Answer: Glass.
+The Word Puzzle: What five-letter word becomes shorter when you add two letters to it?
+Answer: Short (add 'er').
+The Elevator Riddle: You live on the 20th floor of a building. Every morning you take the elevator from the 20th floor to the ground floor. When you return, you take the elevator to the 10th floor and walk the rest of the way unless it's raining or there are other people in the elevator. Why?
+Answer: You’re too short to reach the button for the 20th floor but can reach the button for the 10th floor.
+The Brothers and Sisters: I have as many brothers as I have sisters, but each of my brothers has only half as many brothers as sisters. How many siblings are there in my family?
+Answer: There are four brothers and three sisters.
+The Light Switch Puzzle: You have three switches in a room which correspond to three different light bulbs in another room. You can only enter the room with the light bulbs once. How do you determine which switch controls which light bulb?
+Answer: Turn on switch 1 and wait a few minutes. Turn it off, turn on switch 2, and go into the room. The bulb that is on is connected to switch 2, the one that is off and warm to switch 1, and the remaining bulb to switch 3.
+The Three Boxes: There are three boxes, one with apples, one with oranges, and one with both. Each box is labeled, but all are labeled incorrectly. You can only take one fruit from one box. How do you label them correctly?
+
+Answer: Take a fruit from the box labeled "both." If you get an apple, then this is the apple box. The box labeled "oranges" must be "both," and the remaining box is "oranges."
+The Stolen Ring: A woman reports her expensive ring stolen, claiming it was taken while she was asleep. The police find the ring in the vacuum cleaner. Why do they arrest her?
+
+Answer: If she were sleeping, she wouldn’t have been able to hear the vacuum cleaner to know the ring was there.
+The Hourglass Puzzle: You have a 7-minute hourglass and an 11-minute hourglass. How can you measure exactly 15 minutes?
+
+Answer: Start both hourglasses. When the 7-minute hourglass runs out, turn it over (7 minutes elapsed). When the 11-minute hourglass runs out, turn over the 7-minute hourglass again (11 minutes elapsed). When the 7-minute hourglass runs out again, 15 minutes have elapsed.
+The Farmer’s Field: A farmer has a rectangular field. He makes two diagonals crossing at the center. The area of the field is 60 square units. What is the length of each diagonal?
+
+Answer: Each diagonal is 10 units. (In a rectangle, diagonals are equal and the area is half the product of the diagonals.)
+The Three Numbers: Think of a number. Multiply it by 3. Add 6. Divide by 3. Subtract the number you thought of. What's the result?
+
+Answer: 2.
+The Book Pages: How many digits are there in the numbers from 1 to 100?
+
+Answer: 192 digits. (1-9: 9 digits, 10-99: 180 digits, 100: 3 digits.)
+The Hidden Animal: What animal can you spell with just three letters and is known as the "king of the jungle"?
+
+Answer: Lion (L-I-O-N).
+The Boat Conundrum: If you row a boat in a pond and the wheel falls off, how many pancakes fit in a doghouse?
+
+Answer: None, because pancakes don't fit in doghouses. (This is a nonsensical brain teaser.)
+The Coffee Conundrum: A man buys a coffee for $5 and pays with a $20 bill. The barista has no change and goes to another shop to get change. He returns, gives the man his $15 change and the man leaves. Later, the other shop owner says the $20 bill was counterfeit and takes his money back. How much did the barista lose?
+
+Answer: $20 (the coffee and the $15 change).
+The Four Days: Today is Tuesday. What day will it be 500 days from now?
+
+Answer: Thursday. (500 days is 71 weeks and 3 days. Three days after Tuesday is Thursday.)
+The Fish Tank: If three cats catch three fish in three minutes, how many fish would six cats catch in six minutes?
+
+Answer: Twelve fish. (Each cat catches one fish in three minutes, so in six minutes each cat catches two fish.)
+The Hospital Elevator: A man in a hospital lives on the 10th floor. He goes down to the ground floor every morning but only goes up to the 7th floor when he returns. He takes the stairs for the remaining floors. Why?
+
+Answer: The man is short and can only reach the button for the 7th floor.
+The Secret Password: To meet a certain society's leader, you need to say the correct password. You hide and listen. One member knocks on the door. The guard says "twelve", the member replies "six", and is let in. Another knocks, the guard says "six", the member replies "three", and is let in. You knock, the guard says "ten", what do you say?
+
+Answer: Five. (The password is the number of letters in the word the guard says.)
+The Tricky Coin: Out of 40 coins, one is counterfeit and heavier. Using a balance scale, how do you find the counterfeit coin in just two weighings?
+
+Answer: Divide the coins into groups of 13, 13, and 14. Weigh the two groups of 13 against each other. If they balance, the heavier coin is in the group of 14. Then, select any 12 coins from this group and weigh 6 against 6. If they balance, the unweighed coin is the counterfeit. If not, the heavier side contains the counterfeit.
+The Mysterious Age: Someone's mother is 21 years older than them. In 6 years, their mother will be five times their age. How old is the person now?
+
+Answer: Their current age is 3 years old.
+The Clock Challenge: At what time between 3 and 4 o'clock are the hands of a clock exactly opposite each other?
+
+Answer: At about 3:27 and 9/11 minutes. (The minute hand is 27 9/11 minutes ahead of the hour hand at that time.)
+The Island Dilemma: You are stranded on an island with a blind man who has two red pills and two white pills, totally indistinguishable. He must take one of each to live. You're tasked with giving him the pills. How do you ensure he takes one of each?
+
+Answer: Break each pill in half and give him half of each pill.
+The Reversed Clock: If the time right now is 3:15, what is the angle between the hour and minute hands of an analog clock?
+
+Answer: 7.5 degrees. (At 3:15, the hour hand is a quarter of the way between the 3 and the 4, or 7.5 degrees past the 3.)
+The Famous River Crossing: How can you get a wolf, a sheep, and a cabbage across a river in a boat that can only carry you and one other item, without leaving the wolf alone with the sheep or the sheep with the cabbage?
+
+Answer: Take the sheep across, return alone, take the wolf across, bring the sheep back, take the cabbage across, and finally return to get the sheep.
+The Weight Balance: You have 9 balls, all identical in appearance. 8 of them weigh the same, but one is slightly heavier. Using a balance scale, how do you find the heavier ball in just two weighings?
+
+Answer: Divide the balls into three groups of three. Weigh two groups. If they balance, the heavy ball is in the unweighed group. Weigh two balls from this group; if they balance, the remaining ball is the heavy one.
+The Tricky Number: If you have a bowl with six apples and you take away four, how many do you have?
+
+Answer: Four. You took four apples, so you have those four.
+The Halfway Point: A runner runs a certain distance and then runs back to the starting point. When she gets halfway back, what part of the distance has she run?
+
+Answer: Three-quarters of the total distance.
+The Airplane Fuel: If an electric airplane is flying north at 100 mph and there is a wind blowing to the west at 100 mph, which way does the smoke blow?
+
+Answer: There is no smoke; it's an electric airplane.
+The Room of Doors: You are in a room with 2 doors leading out. Behind one door is a room that will lead to your freedom. Behind the other door is a lion that hasn't eaten in three months. Which door do you choose?
+
+Answer: The door with the lion. If it hasn't eaten in three months, it's dead.
+The Inheritance Puzzle: A father leaves his three sons 17 elephants with the following instructions: The oldest son should get half of the elephants, the middle son a third, and the youngest son a ninth. How should they divide the elephants without killing any?
+
+Answer: Borrow an elephant from a neighbor, making 18 elephants. Then distribute: half (9) to the oldest, a third (6) to the middle son, and a ninth (2) to the youngest. This totals 17, leaving the borrowed elephant to return.
+The Coin Toss: If you toss a coin ten times and it lands heads up every time, what are the chances it will land heads up if you toss it again?
+
+Answer: 50%. Each coin toss is an independent event.
+The Farmer's Sheep: A farmer has 17 sheep, all but 9 die. How many are left?
+
+Answer: Nine.
+The Ladder Puzzle: A 10-foot ladder is attached to a ship. If the water rises 5 feet, how much of the ladder will be above water?
+
+Answer: Still 10 feet, as the ladder will rise with the ship.
+he Broken Bulb: You are in a room with 3 light switches. One switch turns on a lightbulb inside a closed room, the other two switches do nothing. You can only enter the room once. How can you determine which switch controls the light bulb?
+
+Answer: Turn on the first switch, wait a few minutes, turn it off. Turn on the second switch and enter the room. If the bulb is on, it’s the second switch. If the bulb is off and warm, it’s the first switch.
+The Three Glasses: You have three glasses. The first two are filled with juice, and the third is empty. By moving only one glass, how can you arrange them so that the full and empty glasses alternate?
+
+Answer: Pour the juice from the second glass into the third glass.
+The Train Tunnel: A train 1 mile long is going through a 1 mile long tunnel at a speed of 1 mile per minute. How long does it take for the entire train to pass through the tunnel?
+
+Answer: 2 minutes.
+The Missing Dollar Redux: Three people check into a hotel room that costs $30. They each contribute $10. The hotel manager later realizes the room should only cost $25 and sends the bellboy to return $5. The bellboy decides to keep $2 for himself and gives $1 back to each person. Now, each person paid $9, totaling $27. The bellboy kept $2, totaling $29. Where's the missing dollar?
+
+Answer: There's no missing dollar. They each paid $9, totaling $27: $25 for the room and $2 for the bellboy.
+The Scrambled Egg: If it took six people six hours to cook six scrambled eggs, how long would it take one person to cook one scrambled egg?
+
+Answer: Six hours. The number of people does not change the time it takes to cook one egg.
+The Four-Day Clock: A clock loses 10 minutes every hour. If the clock is set correctly at noon, what is the correct time when the clock shows 3 PM?
+
+Answer: 3:30 PM. The clock loses 30 minutes in 3 hours.
+The Liar and the Truth Teller: You're at a fork in the road. One way leads to safety, the other to danger. Two twins stand at the fork, one who always lies and one who always tells the truth. You can ask one question to find the safe path. What do you ask?
+
+Answer: Ask either twin, "Which way would your brother tell me to go for safety?" Then go the opposite way.
+The Airplane Challenge: If an electric train is moving north at 100mph and the wind is blowing to the west at 100mph, which way does the smoke blow?
+
+Answer: There is no smoke; it’s an electric train.
+The Bottle and the Cork: A bottle and a cork together cost $1.10. The bottle costs $1 more than the cork. How much does the cork cost?
+
+Answer: 5 cents. The bottle costs $1.05.
+The Halfway Point: A runner runs a certain distance and then runs back to the starting point. When she gets halfway back, what part of the distance has she run?
+
+Answer: Three-quarters of the total distance.
+The Forbidden Letter: Think of words ending in '-GRY'. Angry and hungry are two of them. There are only three words in the English language. What is the third word?
+
+Answer: The third word is 'language' (as in the phrase "the English language").
+The Next Number: What is the next number in this sequence? 1, 11, 21, 1211, 111221, ...
+
+Answer: 312211. Each number describes the previous one (1 is "one 1", which becomes 11, then "two 1s" becomes 21, etc.).
+The Hotel Room Mystery: In a hotel, a man is sleeping when suddenly there's a knock on the door. He opens the door to see a stranger. The stranger says, "I'm sorry, I have made a mistake. I thought this was my room." He then goes down the corridor and into the elevator. The man closes the door and calls security. Why?
+
+Answer: The stranger didn't ask for the room number, indicating he was not a guest but likely a thief checking for empty rooms.
+The Airplane Fuel: An electric airplane is flying north at 100 mph and there is a wind blowing to the west at 100 mph. How much fuel does the airplane need to continue flying for one hour?
+
+Answer: None, it’s an electric airplane.
+The Torn Page: A book has 1000 pages, numbered from 1 to 1000. A page is torn out. The sum of the numbers on the remaining pages is 999,999. What is the number on the torn page?
+
+Answer: Page 756 (999,999 equals the sum of 1 to 1000 minus page 756).
+The Inheritance Puzzle Continued: Borrow an elephant to make 18. The oldest gets 9 (half), the middle 6 (a third), and the youngest 2 (a ninth). That totals 17, and they return the borrowed elephant.
+
+The Riddle of the Sphinx: What walks on four legs in the morning, two legs at noon, and three legs in the evening?
+
+Answer: A human (crawling as a baby, walking on two legs as an adult, and using a cane in old age).
+The Lighter Side: If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?
+
+Answer: 5 minutes.
+The Detective's Dilemma: A man is found murdered on a Sunday morning. His wife calls the police, who question the wife and the staff. The wife says she was sleeping, the cook says he was cooking breakfast, the gardener says he was planting seeds, the maid says she was getting the mail, and the butler says he was polishing the silver. Who did it?
+
+Answer: The maid, as there is no mail on Sunday.
+The Escaping Prisoner: A prisoner is told, "If you tell a lie, we will hang you; if you tell the truth, we will shoot you." What can he say to save himself?
+
+Answer: "You will hang me."
+The Monkey Business: If a monkey climbs 3 meters up a tree every day but slides back 2 meters each night, how long will it take the monkey to reach the top of a 30-meter tree?
+
+Answer: 28 days (on the 28th day, it climbs to the top and doesn’t slide back).
+The Unusual Paragraph: This paragraph looks ordinary, but it's unusual because it's missing a common letter. Which letter is it?
+
+Answer: The letter 'e'.
+The Famous Lily Pad: A lily pad doubles in size each day. If it covers the entire pond in 48 days, on what day was it half the size?
+
+Answer: Day 47.
+The Confusing Sentence: "The following sentence is true. The previous sentence is false." Are these sentences true or false?
+
+Answer: This is a paradox. Both cannot be true, but they also cannot be false.
+The Race to the End: In a race, when you pass the person in 2nd place, what place are you in?
+
+Answer: Second place.
+The Missing Coin: You have 10 coins arranged in a straight line on a table. By moving only 3 coins, can you create a line of 5 coins end to end?
+
+Answer: Yes. Take the first, third, and fifth coins and place them at the end of the line.
+The Elevator Mystery: A man lives on the 10th floor of a building. Every day, he takes the elevator to the ground floor to go to work. When he returns, he takes the elevator to the 7th floor and walks the rest of the way up, except when it's raining. Why?
+
+Answer: He’s too short to reach the 10th-floor button, but he can use his umbrella to press it when it's raining.
+The Two Doors and the Guards: You are in a room with two doors. One door leads to certain death, the other to freedom. Each door is guarded by a person. One guard always tells the truth, the other always lies. What question do you ask to find the door to freedom?
+
+Answer: Ask either guard, "Which door would the other guard say leads to freedom?" and choose the opposite door.
+The Vanishing Coin: A coin is placed on a table so that it sits vertically. You and your friend take turns to move the coin, but it must always remain touching the table and end up standing vertically. The person who cannot make a move loses. How do you always win?
+
+Answer: Move second and always replicate your friend's move on the opposite side of the coin.
+The Half-Empty or Half-Full Glass: A glass is filled to exactly half its capacity. Is the glass half-empty or half-full?
+
+Answer: It depends on the recent action: If liquid was poured in to reach halfway, it’s half-full. If it was full and then half was poured out, it’s half-empty.
+The King's Decree: A king asks you to bring him the most important thing for a kingdom. What do you bring?
+
+Answer: A mirror, as it symbolizes self-reflection and understanding both for a king and his kingdom.
+The Three Light Bulbs: You are in a room with three switches which correspond to three different light bulbs in another room. You can only enter the room with the light bulbs once. How do you determine which switch controls which light bulb?
+
+Answer: Turn on the first switch, wait a few minutes, turn it off. Turn on the second switch and go into the room. The bulb that is on is connected to the second switch, the one that is off and warm to the first switch, and the remaining bulb to the third switch.
+The Solitary Island: A man is stranded on an island with no way off. Every day, a plane flies over the island but doesn't notice him. How does he make himself visible?
+
+Answer: He uses resources on the island to create a large, noticeable signal, like a fire or a message written in the sand.
+The Bridge Crossing: Four people need to cross a rickety bridge at night. They have one flashlight and can only cross two at a time, moving at the speed of the slower person. Their speeds are 1 minute, 2 minutes, 5 minutes, and 10 minutes. What's the fastest they can all get across?
+
+Answer: 17 minutes. First, the 1-minute and 2-minute people cross (2 minutes), 1-minute person returns (1 minute), 5-minute and 10-minute people cross (10 minutes), 2-minute person returns (2 minutes), and finally, 1-minute and 2-minute people cross again (2 minutes).
+The Upside-Down Number: What is the next number in this sequence? 86, 87, 88, 89, 90, 91, ...
+
+Answer: 92 (numbers as seen upside-down).
+The Boat and the River: A boat has a ladder hanging off the side and into the water. The bottom rung touches the water. The rungs are one foot apart, and the tide is rising at one foot per hour. How long until the water covers the third rung?
+
+Answer: It never does. As the tide rises, so does the boat.
+The Doctor's Children: A doctor and a bus driver are both in love with the same woman, an attractive girl named Sarah. The bus driver had to go on a long bus trip that would last a week. Before he left, he gave Sarah seven apples. Why?
+
+Answer: "An apple a day keeps the doctor away" – the bus driver wanted to make sure the doctor wouldn't visit Sarah while he was gone.
+The Impossible Equation: There is a three-digit number. The second digit is four times bigger than the third digit, while the first digit is three less than the second digit. What is the number?
+
+Answer: 141.
+The Painter's Puzzle: A painter needs to paint the numbers 1 to 100 on doors. How many times does he have to paint the number 9?
+
+Answer: 20 times.
+The Chessboard Challenge: If a chessboard has 64 squares, how many squares are there in total on the board including all possible sizes of squares?
+
+Answer: 204 (1x1 squares: 64, 2x2 squares: 49, 3x3 squares: 36, up to 8x8 squares: 1).
+The Balancing Act: How can you balance a cork on its end using two forks and a glass?
+
+Answer: Insert the two forks into each other and then into the cork. Balance this arrangement on the rim of the glass.
+The Three Pills: You have a headache and see three pills in a bottle. You must take exactly one. The pills are all perfect cylinders, but one pill is slightly shorter and one pill is slightly longer. How do you choose one pill without using any tools?
+
+Answer: Line up the three pills; the one that’s a different length (either shorter or longer) will be obvious, so take one of the other two.
+The Hourglass Puzzle: You have two hourglasses — one measures 4 minutes, the other 7 minutes. How can you measure exactly 9 minutes?
+
+Answer: Start both hourglasses. When the 4-minute hourglass runs out, turn it over (4 minutes passed). When the 7-minute hourglass runs out, turn it over (7 minutes passed). When the 4-minute hourglass runs out again (total 8 minutes), turn over the 7-minute hourglass. When it runs out this time, 9 minutes have passed.
+
+
+
+
